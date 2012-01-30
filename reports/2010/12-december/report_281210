@@ -1,0 +1,73 @@
+===========SFW SSH Daily Report==============
+Date is: Tuesday_28_December_2010
+_____________________________________________
+
+==BAN==
+issued at Dec_28_at_00:00
+212.156.122.94
+23 failed login attempts
+212.156.122.94 is from TR, Turkey 
+Short whois:
+212.156.122.94 is part of 212.156.0.0/16
+212.156.0.0/17, which owned by Turk Telekom TTnet
+TurkTelecom  
+
+==BAN==
+issued at Dec_28_at_00:00
+62.112.140.85
+21 failed login attempts
+62.112.140.85 is from DE, Germany 
+Short whois:
+62.112.140.85 is part of 62.112.128.0/19, which owned by Sebastian Mueller 
+Burgstrasse 6 
+65307 Bad Schwalbach
+Netdiscounter GmbH 
+
+==BAN==
+issued at Dec_28_at_00:00
+173.164.48.131
+27 failed login attempts
+173.164.48.131 is from --, N/A 
+Short whois:
+173.164.48.131 is part of , which owned by 
+
+==BAN==
+issued at Dec_28_at_00:00
+116.214.26.145
+14 failed login attempts
+116.214.26.145 is from IN, India 
+Short whois:
+116.214.26.145 is part of 116.214.26.0/24, which owned by TULIP Telecom ltd.
+This route object
+Tulip it services
+
+==ACCESS==
+28 Dec at 08:27:11 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 09:03:04 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 09:03:42 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 09:12:37 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 09:14:40 accepted root login from 212.248.8.10
+
+==BAN==
+issued at Dec_28_at_11:17
+88.84.131.58
+10 failed login attempts
+88.84.131.58 is from DE, Germany 
+Short whois:
+88.84.131.58 is part of 88.84.128.0/19, which owned by 1blu web hosting
+IXEUROPE-DE-2  
+
+==ACCESS==
+28 Dec at 13:45:32 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 13:45:42 accepted root login from 212.248.8.10
+

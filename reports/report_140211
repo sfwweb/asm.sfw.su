@@ -1,0 +1,82 @@
+===========SFW SSH Daily Report==============
+Date is: Monday_14_February_2011
+_____________________________________________
+
+==BAN==
+issued at Feb_14_at_00:00
+188.114.147.157
+19 failed login attempts
+188.114.147.157 is from --, N/A 
+Short whois:
+188.114.147.157 is part of 188.114.128.0/18, which owned by Infrastructure EM -
+EnergiMidt Route 
+Abuse e-mail is: abuse@energimidt.dk
+
+==BAN==
+issued at Feb_14_at_00:00
+61.30.236.2
+11 failed login attempts
+61.30.236.2 is from TW, Taiwan 
+Short whois:
+61.30.236.2 is part of , which owned by Taiwan Fixed Network
+7FI., No. 498,
+Taipei Taiwan 114.
+Taiwan Fixed Network
+Taipei Taiwan 
+Abuse e-mail is: ting_tseng@twfn.com.tw
+steve_huang@howin.com.tw
+spam@anet.net.tw
+abuse@tfn.net.tw
+linghaochen@taiwanmobile.com
+
+==BAN==
+issued at Feb_14_at_07:13
+119.188.7.180
+19 failed login attempts
+119.188.7.180 is from --, N/A 
+Short whois:
+119.188.7.180 is part of 119.176.0.0/12, which owned by China Unicom Shandong
+China Unicom 
+CNC Group CHINA169
+Abuse e-mail is: abuse@chinaunicom.cn
+ip@pub.sd.cninfo.net
+
+==BAN==
+issued at Feb_14_at_09:53
+72.51.43.219
+23 failed login attempts
+72.51.43.219 is from US, United States
+Short whois:
+72.51.43.219 is part of , which owned by 
+Abuse e-mail is: 
+
+==ACCESS==
+14 Feb at 13:41:27 accepted root login from 212.248.8.10
+
+==ACCESS==
+14 Feb at 13:41:47 accepted root login from 212.248.8.10
+
+==ACCESS==
+14 Feb at 13:42:04 accepted root login from 212.248.8.10
+
+==ACCESS==
+14 Feb at 13:45:51 accepted root login from 212.248.8.10
+
+==ACCESS==
+14 Feb at 13:45:52 accepted root login from 212.248.8.10
+
+==ACCESS==
+14 Feb at 13:51:26 accepted root login from 212.248.8.10
+
+==ACCESS==
+14 Feb at 13:56:07 accepted root login from 212.248.8.10
+
+==ACCESS==
+14 Feb at 14:03:55 accepted root login from 195.43.94.119
+
+==ACCESS==
+14 Feb at 14:04:14 accepted root login from 195.43.94.119
+
+==ACCESS==
+14 Feb at 14:04:34 accepted root login from 195.43.94.119
+

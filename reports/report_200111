@@ -1,0 +1,97 @@
+===========SFW SSH Daily Report==============
+Date is: Thursday_20_January_2011
+_____________________________________________
+
+==ACCESS==
+19 Jan at 08:09:42 accepted root login from 212.248.8.10
+
+==ACCESS==
+19 Jan at 08:11:09 accepted root login from 212.248.8.10
+
+==ACCESS==
+19 Jan at 19:40:38 accepted root login from 94.29.73.223
+
+==ACCESS==
+19 Jan at 19:41:14 accepted root login from 94.29.73.223
+
+==ACCESS==
+19 Jan at 19:41:17 accepted root login from 94.29.73.223
+
+==BAN==
+issued at Jan_20_at_00:00
+114.207.244.118
+17 failed login attempts
+114.207.244.118 is from AU, Australia 
+Short whois:
+114.207.244.118 is part of , which owned by Hanaro Telecom 
+Shindongah Bldg, 43,
+**************************************************************  
+Allocated to KRNIC
+If you would
+information in detail
+the KRNIC Whois
+http://whois.nic.or.kr/english/index.htm  
+**************************************************************  
+SK Broadband Co
+Abuse e-mail is: ip-adm@hanaro.com
+ip-adm@hanaro.com
+
+==BAN==
+issued at Jan_20_at_00:00
+123.13.201.202
+12 failed login attempts
+123.13.201.202 is from CN, China 
+Short whois:
+123.13.201.202 is part of 123.8.0.0/13, which owned by China Unicom Henan
+China Unicom 
+CNC Group CHINA169
+Abuse e-mail is: abuse@chinaunicom.cn
+abuse@public.zz.ha.cn
+
+==BAN==
+issued at Jan_20_at_00:00
+59.33.46.45
+20 failed login attempts
+59.33.46.45 is from CN, China 
+Short whois:
+59.33.46.45 is part of , which owned by CHINANET Guangdong province
+China Telecom 
+No.31,jingrong street 
+Beijing 100032 
+Abuse e-mail is: anti-spam@ns.chinanet.cn.net
+ipadm@gddc.com.cn
+
+==BAN==
+issued at Jan_20_at_02:23
+209.135.8.114
+21 failed login attempts
+209.135.8.114 is from US, United States
+Short whois:
+209.135.8.114 is part of , which owned by 
+Abuse e-mail is: 
+
+==ACCESS==
+20 Jan at 10:50:03 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Jan at 10:50:50 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Jan at 10:52:30 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Jan at 12:45:45 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Jan at 13:52:41 accepted root login from 212.248.8.10
+
+==BAN==
+issued at Jan_20_at_17:37
+95.211.8.147
+24 failed login attempts
+95.211.8.147 is from --, N/A 
+Short whois:
+95.211.8.147 is part of 95.211.0.0/16, which owned by LeaseWeb B.V. 
+LEASEWEB  
+Abuse e-mail is: abuse@leaseweb.com
+

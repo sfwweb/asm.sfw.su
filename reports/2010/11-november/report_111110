@@ -1,0 +1,81 @@
+===========SFW SSH Daily Report==============
+Date is: Thursday_11_November_2010
+_____________________________________________
+
+==BAN==
+195.43.94.119
+15 failed login attempts
+195.43.94.119 is from LT, Lithuania 
+Short whois:
+195.43.94.119 is part of 195.43.94.0/24, which owned by DTEL Inc. 
+
+==BAN==
+210.31.104.93
+15 failed login attempts
+210.31.104.93 is from CN, China 
+Short whois:
+210.31.104.93 is part of , which owned by ~{L+T-VXPM;zP5Q'T:~}  
+Taiyuan Heavy Machinery
+Taiyuan, Shanxi 030024,
+
+==ACCESS==
+11 Nov at 06:19:52 accepted root login from 212.248.8.10
+
+==ACCESS==
+11 Nov at 07:13:18 accepted root login from 212.248.8.10
+
+==ACCESS==
+11 Nov at 07:13:25 accepted root login from 212.248.8.10
+
+==ACCESS==
+11 Nov at 07:13:30 accepted root login from 212.248.8.10
+
+==ACCESS==
+11 Nov at 07:44:01 accepted root login from 212.248.8.10
+
+==ACCESS==
+11 Nov at 11:48:58 accepted root login from 212.248.8.10
+
+==ACCESS==
+11 Nov at 13:08:58 accepted root login from 212.248.8.10
+
+==ACCESS==
+11 Nov at 15:00:34 accepted root login from 212.248.8.10
+
+==ACCESS==
+11 Nov at 15:00:42 accepted root login from 212.248.8.10
+
+==BAN==
+83.3.107.82
+16 failed login attempts
+83.3.107.82 is from PL, Poland 
+Short whois:
+83.3.107.82 is part of 83.0.0.0/11
+83.0.0.0/13, which owned by static IP 
+WROCLAW  
+POLAND  
+TPNET  
+for abuse: abuse@tpnet.pl
+TPNET  
+for abuse: abuse@tpnet.pl
+
+==BAN==
+88.191.74.134
+21 failed login attempts
+88.191.74.134 is from FR, France 
+Short whois:
+88.191.74.134 is part of 88.160.0.0/11, which owned by Dedibox SAS 
+Customers  
+Paris, France 
+NCC#2007023902  
+ProXad network /
+Paris, France 
+
+==BAN==
+123.147.197.130
+17 failed login attempts
+123.147.197.130 is from CN, China 
+Short whois:
+123.147.197.130 is part of 123.144.0.0/14, which owned by ShaPingBa Node Access
+CNC Group CHINA169
+

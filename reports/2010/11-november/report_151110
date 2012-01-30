@@ -1,0 +1,33 @@
+===========SFW SSH Daily Report==============
+Date is: Monday_15_November_2010
+_____________________________________________
+
+==ACCESS==
+15 Nov at 06:11:51 accepted root login from 212.248.8.10
+
+==ACCESS==
+15 Nov at 06:28:35 accepted root login from 212.248.8.10
+
+==ACCESS==
+15 Nov at 06:35:20 accepted root login from 212.248.8.10
+
+==BAN==
+195.43.94.119
+13 failed login attempts
+195.43.94.119 is from LT, Lithuania 
+Short whois:
+195.43.94.119 is part of 195.43.94.0/24, which owned by DTEL Inc. 
+
+==BAN==
+65.98.11.2
+15 failed login attempts
+65.98.11.2 is from US, United States
+Short whois:
+65.98.11.2 is part of , which owned by 
+
+==ACCESS==
+15 Nov at 12:49:50 accepted root login from 88.210.44.134
+
+==ACCESS==
+15 Nov at 12:50:05 accepted root login from 88.210.44.134
+

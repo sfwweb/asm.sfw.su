@@ -1,0 +1,78 @@
+===========SFW SSH Daily Report==============
+Date is: Tuesday_04_January_2011
+_____________________________________________
+
+==ACCESS==
+2 Jan at 13:09:10 accepted root login from 94.29.72.192
+
+==ACCESS==
+3 Jan at 04:58:09 accepted root login from 94.29.72.192
+
+==ACCESS==
+3 Jan at 04:58:41 accepted root login from 94.29.72.192
+
+==BAN==
+issued at Jan_04_at_00:00
+196.207.234.163
+18 failed login attempts
+196.207.234.163 is from SN, Senegal 
+Short whois:
+196.207.234.163 is part of , which owned by Pool-ADSL-Sonatel-Multimedia  
+Abuse e-mail is: abuse@senelec.sn
+mapenda.faye@senelec.sn
+ndeyecoumba.diouf@senelec.sn
+moctarbeidari.toure@senelec.sn
+
+==BAN==
+issued at Jan_04_at_00:00
+61.90.198.172
+18 failed login attempts
+61.90.198.172 is from TH, Thailand 
+Short whois:
+61.90.198.172 is part of , which owned by Infrastructure TrueIDC Inkra
+Abuse e-mail is: ipadmin@trueinternet.co.th
+
+==BAN==
+issued at Jan_04_at_00:00
+202.129.32.167
+21 failed login attempts
+202.129.32.167 is from TH, Thailand 
+Short whois:
+202.129.32.167 is part of , which owned by 492 Changmai-Lumpang Road
+***send spam abuse
+Abuse e-mail is: admin-thix@cat.net.th
+ip-noc@cat.net.th
+
+==BAN==
+issued at Jan_04_at_00:00
+204.62.12.21
+16 failed login attempts
+204.62.12.21 is from US, United States
+Short whois:
+204.62.12.21 is part of , which owned by 
+Abuse e-mail is: 
+
+==BAN==
+issued at Jan_04_at_12:42
+62.141.73.182
+22 failed login attempts
+62.141.73.182 is from RU, Russian Federation
+Short whois:
+62.141.73.182 is part of 62.141.64.0/18, which owned by CJSC "EDN Sovintel"
+COMBELNET  
+Abuse e-mail is: noc@gldn.net
+abuse@gldn.net
+noc@gldn.net
+
+==BAN==
+issued at Jan_04_at_17:46
+114.80.166.220
+18 failed login attempts
+114.80.166.220 is from AU, Australia 
+Short whois:
+114.80.166.220 is part of , which owned by CHINANET SHANGHAI PROVINCE
+China Telecom 
+No.31,jingrong street 
+Beijing 100032 
+Abuse e-mail is: wengwq@online.sh.cn
+

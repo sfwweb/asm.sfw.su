@@ -1,0 +1,118 @@
+===========SFW SSH Daily Report==============
+Date is: Tuesday_14_December_2010
+_____________________________________________
+
+==ACCESS==
+11 Dec at 08:40:41 accepted root login from 94.29.71.246
+
+==ACCESS==
+11 Dec at 08:45:54 accepted root login from 94.29.71.246
+
+==ACCESS==
+11 Dec at 08:50:02 accepted root login from 94.29.71.246
+
+==ACCESS==
+11 Dec at 08:53:21 accepted root login from 94.29.71.246
+
+==ACCESS==
+12 Dec at 21:40:10 accepted root login from 94.29.71.246
+
+==ACCESS==
+12 Dec at 21:54:14 accepted root login from 94.29.71.246
+
+==ACCESS==
+12 Dec at 21:54:19 accepted root login from 94.29.71.246
+
+==ACCESS==
+13 Dec at 04:38:13 accepted root login from 94.29.71.246
+
+==ACCESS==
+13 Dec at 04:38:31 accepted root login from 94.29.71.246
+
+==BAN==
+issued at Dec_14_at_00:00
+125.88.123.220
+20 failed login attempts
+125.88.123.220 is from CN, China 
+Short whois:
+125.88.123.220 is part of , which owned by CHINANET Guangdong province
+China Telecom 
+No.31,jingrong street 
+Beijing 100032 
+
+==BAN==
+issued at Dec_14_at_00:00
+41.218.189.251
+12 failed login attempts
+41.218.189.251 is from --, N/A 
+Short whois:
+41.218.189.251 is part of , which owned by AFMIC  
+
+==BAN==
+issued at Dec_14_at_00:00
+213.140.119.30
+18 failed login attempts
+213.140.119.30 is from RU, Russian Federation
+Short whois:
+213.140.119.30 is part of 213.140.96.0/19, which owned by Ethernet PTP Interfaces
+LLC "EDN Sovitel"
+Ekaterinburg, Russia 
+UralRelcom Ltd. 
+13, Anton Valek
+Yekaterinburg  
+Russia  
+
+==BAN==
+issued at Dec_14_at_00:00
+195.162.8.114
+12 failed login attempts
+195.162.8.114 is from DE, Germany 
+Short whois:
+195.162.8.114 is part of 195.162.8.0/23, which owned by VIPINET LLC 
+VIPINET-NET  
+
+==BAN==
+issued at Dec_14_at_00:00
+61.128.121.138
+14 failed login attempts
+61.128.121.138 is from CN, China 
+Short whois:
+61.128.121.138 is part of , which owned by CNINFONET Xingjiang province
+Data Communication Division
+China Telecom 
+
+==BAN==
+issued at Dec_14_at_00:00
+93.103.18.147
+11 failed login attempts
+93.103.18.147 is from --, N/A 
+Short whois:
+93.103.18.147 is part of 93.103.0.0/19, which owned by T-2 Access Network
+T-2 d.o.o. 
+
+==BAN==
+issued at Dec_14_at_00:00
+99.192.163.108
+20 failed login attempts
+99.192.163.108 is from US, United States
+Short whois:
+99.192.163.108 is part of , which owned by 
+
+==BAN==
+issued at Dec_14_at_20:56
+76.12.88.156
+10 failed login attempts
+76.12.88.156 is from US, United States
+Short whois:
+76.12.88.156 is part of , which owned by 
+
+==BAN==
+issued at Dec_14_at_21:06
+210.75.192.21
+11 failed login attempts
+210.75.192.21 is from CN, China 
+Short whois:
+210.75.192.21 is part of , which owned by Capinfo Company Limited.
+Government  
+Beijing  
+

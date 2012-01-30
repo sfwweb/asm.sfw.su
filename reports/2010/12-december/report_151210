@@ -1,0 +1,54 @@
+===========SFW SSH Daily Report==============
+Date is: Wednesday_15_December_2010
+_____________________________________________
+
+==BAN==
+issued at Dec_15_at_00:00
+76.12.88.156
+11 failed login attempts
+76.12.88.156 is from US, United States
+Short whois:
+76.12.88.156 is part of , which owned by 
+
+==BAN==
+issued at Dec_15_at_00:00
+210.75.192.21
+11 failed login attempts
+210.75.192.21 is from CN, China 
+Short whois:
+210.75.192.21 is part of , which owned by Capinfo Company Limited.
+Government  
+Beijing  
+
+==BAN==
+issued at Dec_15_at_00:00
+125.88.123.220
+20 failed login attempts
+125.88.123.220 is from CN, China 
+Short whois:
+125.88.123.220 is part of , which owned by CHINANET Guangdong province
+China Telecom 
+No.31,jingrong street 
+Beijing 100032 
+
+==ACCESS==
+15 Dec at 05:00:11 accepted root login from 94.29.71.246
+
+==ACCESS==
+15 Dec at 05:00:33 accepted root login from 94.29.71.246
+
+==ACCESS==
+15 Dec at 11:15:37 accepted root login from 212.248.8.10
+
+==ACCESS==
+15 Dec at 11:16:59 accepted root login from 212.248.8.10
+
+==BAN==
+issued at Dec_15_at_16:27
+221.1.80.84
+15 failed login attempts
+221.1.80.84 is from CN, China 
+Short whois:
+221.1.80.84 is part of 221.0.0.0/15, which owned by Shouguangshucaiyiyuanshipin  
+CNC Group CHINA169
+

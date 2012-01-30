@@ -1,0 +1,51 @@
+===========SFW SSH Daily Report==============
+Date is: Saturday_08_January_2011
+_____________________________________________
+
+==BAN==
+issued at Jan_08_at_00:00
+88.191.124.81
+19 failed login attempts
+88.191.124.81 is from FR, France 
+Short whois:
+88.191.124.81 is part of 88.160.0.0/11, which owned by Dedibox SAS 
+Customers  
+Paris, France 
+NCC#2007023902  
+ProXad network /
+Paris, France 
+Abuse e-mail is: abuse@proxad.net
+abuse@proxad.net
+
+==BAN==
+issued at Jan_08_at_00:00
+212.150.184.80
+23 failed login attempts
+212.150.184.80 is from IL, Israel 
+Short whois:
+212.150.184.80 is part of 212.150.0.0/16, which owned by 013 NetVision Ltd
+013 Netvision Network
+Abuse e-mail is: nvabuse@013netvision.co.il
+
+==BAN==
+issued at Jan_08_at_10:18
+212.16.95.227
+19 failed login attempts
+212.16.95.227 is from FR, France 
+Short whois:
+212.16.95.227 is part of 212.16.64.0/19
+212.16.88.0/21
+212.16.92.0/22
+212.16.80.0/20, which owned by Iran International Exhibitions
+Farhang Azma Communications
+Abuse e-mail is: majid@faccnet.com
+
+==ACCESS==
+8 Jan at 13:20:49 accepted root login from 188.16.164.236
+
+==ACCESS==
+8 Jan at 13:40:21 accepted root login from 188.16.164.236
+
+==ACCESS==
+8 Jan at 19:23:19 accepted root login from 188.19.173.45
+

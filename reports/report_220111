@@ -1,0 +1,94 @@
+===========SFW SSH Daily Report==============
+Date is: Saturday_22_January_2011
+_____________________________________________
+
+==ACCESS==
+20 Jan at 10:50:03 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Jan at 10:50:50 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Jan at 10:52:30 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Jan at 12:45:45 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Jan at 13:52:41 accepted root login from 212.248.8.10
+
+==BAN==
+issued at Jan_22_at_00:00
+72.215.140.69
+16 failed login attempts
+72.215.140.69 is from US, United States
+Short whois:
+72.215.140.69 is part of , which owned by 
+Abuse e-mail is: 
+
+==BAN==
+issued at Jan_22_at_00:00
+95.211.8.147
+25 failed login attempts
+95.211.8.147 is from --, N/A 
+Short whois:
+95.211.8.147 is part of 95.211.0.0/16, which owned by LeaseWeb B.V. 
+LEASEWEB  
+Abuse e-mail is: abuse@leaseweb.com
+
+==BAN==
+issued at Jan_22_at_09:48
+78.101.103.176
+12 failed login attempts
+78.101.103.176 is from QA, Qatar 
+Short whois:
+78.101.103.176 is part of 78.100.0.0/15
+78.101.96.0/19, which owned by ADSLPOOL  
+78.100 route object
+ADSLPOOL  
+Abuse e-mail is: faisal@qtel.com.qa
+kmallouh@qatar.net.qa
+
+==BAN==
+issued at Jan_22_at_10:03
+188.40.68.133
+23 failed login attempts
+188.40.68.133 is from --, N/A 
+Short whois:
+188.40.68.133 is part of 188.40.0.0/16, which owned by Hetzner Online AG
+Datacenter 10 
+HETZNER-RZ-FKS-BLK1  
+Abuse e-mail is: abuse@hetzner.de
+
+==BAN==
+issued at Jan_22_at_20:35
+72.54.123.34
+17 failed login attempts
+72.54.123.34 is from US, United States
+Short whois:
+72.54.123.34 is part of , which owned by 
+Abuse e-mail is: 
+
+==BAN==
+issued at Jan_22_at_20:57
+125.215.52.249
+11 failed login attempts
+125.215.52.249 is from CN, China 
+Short whois:
+125.215.52.249 is part of , which owned by Science & Technology
+1F,No.757,Yi Shan Road,Shanghai
+Abuse e-mail is: c100@163.com
+c100@163.com
+
+==BAN==
+issued at Jan_22_at_21:01
+116.52.235.72
+31 failed login attempts
+116.52.235.72 is from CN, China 
+Short whois:
+116.52.235.72 is part of , which owned by CHINANET YUNNAN PROVINCE
+China Telecom 
+No.31,jingrong street 
+Beijing 100032 
+Abuse e-mail is: ynipm@126.com
+

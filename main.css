@@ -1,0 +1,22 @@
+/* 
+    Document   : main
+    Created on : Dec 13, 2011, 1:57:24 PM
+    Author     : asm
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body { 
+    background-image: url("./img/bg.gif");
+    color: white;
+}
+
+a {
+    color: yellow;
+}
+

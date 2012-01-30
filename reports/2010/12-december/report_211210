@@ -1,0 +1,64 @@
+===========SFW SSH Daily Report==============
+Date is: Tuesday_21_December_2010
+_____________________________________________
+
+==ACCESS==
+20 Dec at 14:58:05 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Dec at 14:58:54 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Dec at 15:01:50 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Dec at 15:02:28 accepted root login from 212.248.8.10
+
+==BAN==
+issued at Dec_21_at_00:00
+210.212.150.232
+12 failed login attempts
+210.212.150.232 is from IN, India 
+Short whois:
+210.212.150.232 is part of 210.212.144.0/20, which owned by National Institute of
+NIT GE Road
+BSNL Internet 
+
+==BAN==
+issued at Dec_21_at_01:07
+211.140.201.18
+19 failed login attempts
+211.140.201.18 is from CN, China 
+Short whois:
+211.140.201.18 is part of , which owned by China Mobile Communications
+
+==BAN==
+issued at Dec_21_at_03:23
+118.144.76.16
+15 failed login attempts
+118.144.76.16 is from CN, China 
+Short whois:
+118.144.76.16 is part of 118.144.0.0/16, which owned by Beijing Bitone United
+Technology Service Co.,Ltd
+No.26 Chaowai Str.,
+Chaoyang District,Beijing,P.R.C 
+CNC Group CHINA169
+Addresses from CNNIC(BBnet)
+
+==BAN==
+issued at Dec_21_at_18:17
+114.207.244.118
+15 failed login attempts
+114.207.244.118 is from AU, Australia 
+Short whois:
+114.207.244.118 is part of , which owned by Hanaro Telecom 
+Shindongah Bldg, 43,
+**************************************************************  
+Allocated to KRNIC
+If you would
+information in detail
+the KRNIC Whois
+http://whois.nic.or.kr/english/index.htm  
+**************************************************************  
+SK Broadband Co
+

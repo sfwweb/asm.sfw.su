@@ -1,0 +1,87 @@
+===========SFW SSH Daily Report==============
+Date is: Friday_17_December_2010
+_____________________________________________
+
+==ACCESS==
+16 Dec at 20:30:11 accepted root login from 94.29.71.246
+
+==ACCESS==
+16 Dec at 21:12:28 accepted root login from 94.29.71.246
+
+==ACCESS==
+16 Dec at 21:25:53 accepted root login from 94.29.71.246
+
+==ACCESS==
+15 Dec at 11:15:37 accepted root login from 212.248.8.10
+
+==ACCESS==
+15 Dec at 11:16:59 accepted root login from 212.248.8.10
+
+==BAN==
+issued at Dec_17_at_00:00
+58.215.78.163
+15 failed login attempts
+58.215.78.163 is from CN, China 
+Short whois:
+58.215.78.163 is part of , which owned by CHINANET jiangsu province
+China Telecom 
+A12,Xin-Jie-Kou-Wai Street 
+Beijing 100088 
+
+==BAN==
+issued at Dec_17_at_00:00
+221.1.80.84
+16 failed login attempts
+221.1.80.84 is from CN, China 
+Short whois:
+221.1.80.84 is part of 221.0.0.0/15, which owned by Shouguangshucaiyiyuanshipin  
+CNC Group CHINA169
+
+==BAN==
+issued at Dec_17_at_01:10
+61.132.91.132
+12 failed login attempts
+61.132.91.132 is from CN, China 
+Short whois:
+61.132.91.132 is part of 61.132.0.0/17, which owned by changzhou bo ai
+Changzhou City 
+Jiangsu Province 
+CHINANET jiangsu province
+
+==BAN==
+issued at Dec_17_at_07:33
+195.153.113.149
+24 failed login attempts
+195.153.113.149 is from GB, United Kingdom
+Short whois:
+195.153.113.149 is part of 195.152.0.0/15, which owned by WT Air Cargo
+Management System 
+UK-PSINET-960624  
+
+==BAN==
+issued at Dec_17_at_08:58
+213.158.36.10
+29 failed login attempts
+213.158.36.10 is from --, N/A 
+Short whois:
+213.158.36.10 is part of , which owned by   
+
+==BAN==
+issued at Dec_17_at_12:40
+83.231.233.76
+21 failed login attempts
+83.231.233.76 is from US, United States
+Short whois:
+83.231.233.76 is part of , which owned by NTT Europe Online
+
+==BAN==
+issued at Dec_17_at_21:15
+203.113.138.198
+13 failed login attempts
+203.113.138.198 is from VN, Vietnam 
+Short whois:
+203.113.138.198 is part of 203.113.128.0/18, which owned by Leased line services
+Vietel Corporation 
+Internet service/exchange provider
+VIETEL-AS-AP  
+

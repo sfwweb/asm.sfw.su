@@ -1,0 +1,119 @@
+===========SFW SSH Daily Report==============
+Date is: Monday_10_January_2011
+_____________________________________________
+
+==ACCESS==
+8 Jan at 13:20:49 accepted root login from 188.16.164.236
+
+==ACCESS==
+8 Jan at 13:40:21 accepted root login from 188.16.164.236
+
+==ACCESS==
+8 Jan at 19:23:19 accepted root login from 188.19.173.45
+
+==BAN==
+issued at Jan_10_at_00:00
+85.234.157.116
+10 failed login attempts
+85.234.157.116 is from GB, United Kingdom
+Short whois:
+85.234.157.116 is part of 85.234.128.0/19, which owned by Customer Lan 
+PH-Network Europe, operated
+Abuse e-mail is: abuse@as29550.net
+
+==BAN==
+issued at Jan_10_at_00:03
+202.105.183.89
+11 failed login attempts
+202.105.183.89 is from CN, China 
+Short whois:
+202.105.183.89 is part of , which owned by 
+Abuse e-mail is: 
+
+==BAN==
+issued at Jan_10_at_00:03
+188.40.95.211
+18 failed login attempts
+188.40.95.211 is from --, N/A 
+Short whois:
+188.40.95.211 is part of 188.40.0.0/16, which owned by Hetzner Online AG
+Datacenter 10 
+HETZNER-RZ-FKS-BLK1  
+Abuse e-mail is: abuse@hetzner.de
+
+==BAN==
+issued at Jan_10_at_00:03
+195.43.9.169
+14 failed login attempts
+195.43.9.169 is from EG, Egypt 
+Short whois:
+195.43.9.169 is part of 195.43.0.0/19, which owned by This network has
+EUnet Egypt 
+Abuse e-mail is: bitbucket@ripe.net
+bitbucket@ripe.net
+
+==BAN==
+issued at Jan_10_at_00:03
+189.111.154.202
+21 failed login attempts
+189.111.154.202 is from BR, Brazil 
+Short whois:
+189.111.154.202 is part of , which owned by 
+Abuse e-mail is: security@telesp.net.br
+gestaoip@telefonica.com.br
+
+==BAN==
+issued at Jan_10_at_00:03
+212.16.95.227
+19 failed login attempts
+212.16.95.227 is from FR, France 
+Short whois:
+212.16.95.227 is part of 212.16.64.0/19
+212.16.88.0/21
+212.16.92.0/22
+212.16.80.0/20, which owned by Iran International Exhibitions
+Farhang Azma Communications
+Abuse e-mail is: majid@faccnet.com
+
+==BAN==
+issued at Jan_10_at_00:04
+202.105.183.89
+11 failed login attempts
+202.105.183.89 is from CN, China 
+Short whois:
+202.105.183.89 is part of , which owned by 
+Abuse e-mail is: 
+
+==BAN==
+issued at Jan_10_at_00:05
+202.105.183.89
+11 failed login attempts
+202.105.183.89 is from CN, China 
+Short whois:
+202.105.183.89 is part of , which owned by 
+Abuse e-mail is: 
+
+==BAN==
+issued at Jan_10_at_00:06
+202.105.183.89
+11 failed login attempts
+202.105.183.89 is from CN, China 
+Short whois:
+202.105.183.89 is part of , which owned by 
+Abuse e-mail is: 
+
+==ACCESS==
+10 Jan at 17:21:55 accepted root login from 94.29.72.192
+
+==BAN==
+issued at Jan_10_at_20:27
+213.77.20.89
+20 failed login attempts
+213.77.20.89 is from PL, Poland 
+Short whois:
+213.77.20.89 is part of 213.77.0.0/16, which owned by P.P.F. HASCO-LEK 
+Wroclaw  
+TPNET  
+for abuse: abuse@tpnet.pl
+Abuse e-mail is: hasco2@hasco-lek.com.pl
+

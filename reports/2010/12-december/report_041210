@@ -1,0 +1,63 @@
+===========SFW SSH Daily Report==============
+Date is: Saturday_04_December_2010
+_____________________________________________
+
+==ACCESS==
+2 Dec at 10:52:38 accepted root login from 94.29.71.42
+
+==ACCESS==
+2 Dec at 12:30:01 accepted root login from 94.29.71.42
+
+==ACCESS==
+2 Dec at 12:30:10 accepted root login from 94.29.71.42
+
+==ACCESS==
+2 Dec at 12:30:30 accepted root login from 94.29.71.42
+
+==ACCESS==
+2 Dec at 12:41:10 accepted root login from 94.29.71.42
+
+==BAN==
+218.108.235.86
+18 failed login attempts
+218.108.235.86 is from CN, China 
+Short whois:
+218.108.235.86 is part of , which owned by WASU TV &
+6/F, Jian Gong
+Zhejiang province, P.R.China
+
+==BAN==
+114.80.111.135
+16 failed login attempts
+114.80.111.135 is from AU, Australia 
+Short whois:
+114.80.111.135 is part of , which owned by CHINANET SHANGHAI PROVINCE
+China Telecom 
+No.31,jingrong street 
+Beijing 100032 
+
+==BAN==
+192.167.171.80
+17 failed login attempts
+192.167.171.80 is from IT, Italy 
+Short whois:
+192.167.171.80 is part of 192.167.0.0/16, which owned by CNR - AdR
+Area di Ricerca
+Multiple interconnected LAN
+Bologna  
+GARR routes 
+
+==BAN==
+91.199.236.144
+27 failed login attempts
+91.199.236.144 is from --, N/A 
+Short whois:
+91.199.236.144 is part of 91.199.236.0/24, which owned by VAXON NETWORKS 
+VAXON Networks Alphen
+
+==ACCESS==
+4 Dec at 10:38:50 accepted root login from 94.29.70.138
+
+==ACCESS==
+4 Dec at 10:39:05 accepted root login from 94.29.70.138
+

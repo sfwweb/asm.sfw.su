@@ -1,0 +1,68 @@
+Server Reference
+##########################
+Gateway
+###############
+Rack - 6U
+OS - Dakota
+RAID 1 - 74Gb - OS
+RAID 1 - 500Gb - Log and cache (LVM as idea)
+
+###############
+Backup
+###############
+Rack - 4U
+CPU -Intel
+OS - Dakota
+RAID1 146GB - OS
+RAID6 32TB - Storage
+
+###############
+VM Farm
+###############
+Rack - 5U
+OS - Debian (or Dakota)
+3 GigaLAN: user all for each VM
+##CPU an RAM:
+Host 		 - 1 CPU (6 Cores) 24GB RAM 
+Terminal	- 5 CPU (30 Cores) 128Gb RAM
+Communicator - 1 CPU (4 Cores) 32Gb RAM
+WWW			- 1 CPU (6 Cores) 64Gb RAM
+InfoServer - 1 CPU (2 Cores) 8Gb RAM
+##Hard Disk Drives and RAID:
+#1st Intergated SATA RAID (max 4 HDD):
+RAID1 - 74Gb - Host OS
+#2nd Intergated SATA RAID (max 4 HDD):
+RAID1 - 400Gb - Communicator Storage
+#LSI SAS/SATA RAID (max 8 HDD):
+RAID10 - 600Gb - Web+ Storage
+#Slot SAS/SATA RAID (max 8 HDD):
+RAID10 - 800Gb - Terminal Storage
+
+#################
+Test
+#################
+Rack - 1U
+CPU - Intel
+OS - Dakota (or Debian)
+HDD1 - 160Gb - OS
+HDD2 - 2000Gb - VM Storage
+
+################
+Buh Server
+################
+Rack - 2U
+OS -Windows Server 2008 Standart R2 (link on mail)
+RAID1 - 150Gb - OS
+RAID10 (Soft) - 600Gb - Bases
+
+###############
+Mail
+###############
+Rack - 1U
+OS - SuSE (or Dakota)
+RAID1 (Soft) - 74Gb - OS
+RAID1 - 450Gb - Mailboxes, Website, Settings (LVM)
+Remember cluster!
+
+
+

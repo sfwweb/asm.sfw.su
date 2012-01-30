@@ -1,0 +1,53 @@
+===========SFW SSH Daily Report==============
+Date is: Monday_20_December_2010
+_____________________________________________
+
+==BAN==
+issued at Dec_20_at_00:00
+210.212.150.232
+12 failed login attempts
+210.212.150.232 is from IN, India 
+Short whois:
+210.212.150.232 is part of 210.212.144.0/20, which owned by National Institute of
+NIT GE Road
+BSNL Internet 
+
+==BAN==
+issued at Dec_20_at_00:00
+151.68.87.154
+18 failed login attempts
+151.68.87.154 is from IT, Italy 
+Short whois:
+151.68.87.154 is part of 151.68.0.0/16, which owned by IUnet  
+Via Lorenteggio 257
+Milano, I-20100 
+INFOSTRADA  
+
+==BAN==
+issued at Dec_20_at_00:00
+203.230.117.11
+13 failed login attempts
+203.230.117.11 is from KR, Korea, Republic
+Short whois:
+203.230.117.11 is part of , which owned by 
+
+==BAN==
+issued at Dec_20_at_00:00
+200.155.186.213
+11 failed login attempts
+200.155.186.213 is from BR, Brazil 
+Short whois:
+200.155.186.213 is part of , which owned by 
+
+==ACCESS==
+20 Dec at 14:58:05 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Dec at 14:58:54 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Dec at 15:01:50 accepted root login from 212.248.8.10
+
+==ACCESS==
+20 Dec at 15:02:28 accepted root login from 212.248.8.10
+

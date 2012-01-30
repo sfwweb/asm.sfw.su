@@ -1,0 +1,95 @@
+===========SFW SSH Daily Report==============
+Date is: Sunday_09_January_2011
+_____________________________________________
+
+==ACCESS==
+8 Jan at 13:20:49 accepted root login from 188.16.164.236
+
+==ACCESS==
+8 Jan at 13:40:21 accepted root login from 188.16.164.236
+
+==ACCESS==
+8 Jan at 19:23:19 accepted root login from 188.19.173.45
+
+==BAN==
+issued at Jan_09_at_00:00
+212.16.95.227
+19 failed login attempts
+212.16.95.227 is from FR, France 
+Short whois:
+212.16.95.227 is part of 212.16.64.0/19
+212.16.88.0/21
+212.16.92.0/22
+212.16.80.0/20, which owned by Iran International Exhibitions
+Farhang Azma Communications
+Abuse e-mail is: majid@faccnet.com
+
+==BAN==
+issued at Jan_09_at_00:00
+88.191.124.81
+19 failed login attempts
+88.191.124.81 is from FR, France 
+Short whois:
+88.191.124.81 is part of 88.160.0.0/11, which owned by Dedibox SAS 
+Customers  
+Paris, France 
+NCC#2007023902  
+ProXad network /
+Paris, France 
+Abuse e-mail is: abuse@proxad.net
+abuse@proxad.net
+
+==BAN==
+issued at Jan_09_at_12:45
+202.105.183.89
+10 failed login attempts
+202.105.183.89 is from CN, China 
+Short whois:
+202.105.183.89 is part of , which owned by CHINANET Guangdong province
+Data Communication Division
+China Telecom 
+Abuse e-mail is: anti-spam@ns.chinanet.cn.net
+ipadm@gddc.com.cn
+
+==BAN==
+issued at Jan_09_at_13:11
+188.40.95.211
+17 failed login attempts
+188.40.95.211 is from --, N/A 
+Short whois:
+188.40.95.211 is part of 188.40.0.0/16, which owned by Hetzner Online AG
+Datacenter 10 
+HETZNER-RZ-FKS-BLK1  
+Abuse e-mail is: abuse@hetzner.de
+
+==BAN==
+issued at Jan_09_at_13:49
+195.43.9.169
+13 failed login attempts
+195.43.9.169 is from EG, Egypt 
+Short whois:
+195.43.9.169 is part of 195.43.0.0/19, which owned by This network has
+EUnet Egypt 
+Abuse e-mail is: bitbucket@ripe.net
+bitbucket@ripe.net
+
+==BAN==
+issued at Jan_09_at_16:53
+85.234.157.116
+10 failed login attempts
+85.234.157.116 is from GB, United Kingdom
+Short whois:
+85.234.157.116 is part of 85.234.128.0/19, which owned by Customer Lan 
+PH-Network Europe, operated
+Abuse e-mail is: abuse@as29550.net
+
+==BAN==
+issued at Jan_09_at_20:26
+189.111.154.202
+19 failed login attempts
+189.111.154.202 is from BR, Brazil 
+Short whois:
+189.111.154.202 is part of , which owned by 
+Abuse e-mail is: security@telesp.net.br
+gestaoip@telefonica.com.br
+

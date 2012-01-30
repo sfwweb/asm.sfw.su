@@ -1,0 +1,56 @@
+===========SFW SSH Daily Report==============
+Date is: Sunday_14_November_2010
+_____________________________________________
+
+==ACCESS==
+13 Nov at 05:57:59 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 05:58:45 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 06:41:24 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 07:36:38 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 08:11:25 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 08:12:34 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 09:39:16 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 11:01:47 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 12:01:08 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 12:01:40 accepted root login from 212.248.8.10
+
+==ACCESS==
+13 Nov at 12:01:41 accepted root login from 212.248.8.10
+
+==BAN==
+89.211.183.163
+27 failed login attempts
+89.211.183.163 is from QA, Qatar 
+Short whois:
+89.211.183.163 is part of 89.211.0.0/16
+89.211.160.0/19, which owned by QTEL-ADSL-POOL  
+NEW Allocation Qtel
+ADSL Pool 
+
+==BAN==
+94.137.254.94
+23 failed login attempts
+94.137.254.94 is from --, N/A 
+Short whois:
+94.137.254.94 is part of 94.137.224.0/19
+94.137.254.0/23, which owned by Kemerovo broadband customers
+UGMK-Telecom network 
+

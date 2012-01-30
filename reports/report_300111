@@ -1,0 +1,59 @@
+===========SFW SSH Daily Report==============
+Date is: Sunday_30_January_2011
+_____________________________________________
+
+==ACCESS==
+28 Jan at 12:53:18 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Jan at 12:53:48 accepted root login from 212.248.8.10
+
+==BAN==
+issued at Jan_30_at_00:00
+124.74.214.214
+13 failed login attempts
+124.74.214.214 is from CN, China 
+Short whois:
+124.74.214.214 is part of 124.74.0.0/15, which owned by CHINANET Shanghai province
+China Telecom 
+No.31,jingrong street 
+Beijing 100032 
+From Shanghai Network
+Abuse e-mail is: anti-spam@ns.chinanet.cn.net
+ip-admin@mail.online.sh.cn
+
+==BAN==
+issued at Jan_30_at_00:00
+218.246.125.130
+19 failed login attempts
+218.246.125.130 is from CN, China 
+Short whois:
+218.246.125.130 is part of 218.246.112.0/20, which owned by Yinan Building 
+No.20,Dong Street,Qianmen,Beijing 
+BGCTVNET  
+BGCTV  
+Abuse e-mail is: gehuanoc@gmail.com
+
+==BAN==
+issued at Jan_30_at_10:16
+61.61.138.6
+17 failed login attempts
+61.61.138.6 is from TW, Taiwan 
+Short whois:
+61.61.138.6 is part of , which owned by KGEx.com  
+6F, No.113, Chung
+Taipei Taiwan 
+TDNET  
+Taipei Taiwan 
+Abuse e-mail is: chhlan@fareastone.com.tw
+lai5216@yahoo.com.tw
+
+==BAN==
+issued at Jan_30_at_20:59
+209.172.57.241
+24 failed login attempts
+209.172.57.241 is from CA, Canada 
+Short whois:
+209.172.57.241 is part of , which owned by 
+Abuse e-mail is: 
+

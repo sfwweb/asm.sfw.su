@@ -1,0 +1,104 @@
+===========SFW SSH Daily Report==============
+Date is: Thursday_30_December_2010
+_____________________________________________
+
+==ACCESS==
+29 Dec at 11:07:05 accepted root login from 212.248.8.10
+
+==ACCESS==
+29 Dec at 11:09:18 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 08:27:11 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 09:03:04 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 09:03:42 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 09:12:37 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 09:14:40 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 13:45:32 accepted root login from 212.248.8.10
+
+==ACCESS==
+28 Dec at 13:45:42 accepted root login from 212.248.8.10
+
+==BAN==
+issued at Dec_30_at_00:00
+113.230.164.5
+16 failed login attempts
+113.230.164.5 is from --, N/A 
+Short whois:
+113.230.164.5 is part of 113.224.0.0/12, which owned by China Unicom Liaoning
+China Unicom 
+CNC Group CHINA169
+Abuse e-mail is: abuse@chinaunicom.cn
+abuse@online.ln.cn
+
+==BAN==
+issued at Dec_30_at_00:00
+200.150.184.127
+17 failed login attempts
+200.150.184.127 is from BR, Brazil 
+Short whois:
+200.150.184.127 is part of , which owned by 
+Abuse e-mail is: adm-ajato@ajato.com.br
+sec-ajato@ajato.com.br
+
+==BAN==
+issued at Dec_30_at_00:00
+88.84.131.58
+11 failed login attempts
+88.84.131.58 is from DE, Germany 
+Short whois:
+88.84.131.58 is part of 88.84.128.0/19, which owned by 1blu web hosting
+IXEUROPE-DE-2  
+Abuse e-mail is: abuse@1blu.de
+
+==BAN==
+issued at Dec_30_at_13:43
+202.79.18.240
+20 failed login attempts
+202.79.18.240 is from BD, Bangladesh 
+Short whois:
+202.79.18.240 is part of 202.79.16.0/22, which owned by CONNECTBD Ltd, Internet
+Route Object of
+Abuse e-mail is: shahadat@connectbd.com
+
+==BAN==
+issued at Dec_30_at_15:03
+91.210.130.52
+16 failed login attempts
+91.210.130.52 is from --, N/A 
+Short whois:
+91.210.130.52 is part of 91.210.128.0/22
+91.210.128.0/22
+91.210.128.0/22, which owned by LiveNet.pl  
+LIVENET-PL  
+Network Communication Sp.
+Abuse e-mail is: abuse@ncgroup.pl
+
+==BAN==
+issued at Dec_30_at_20:49
+64.186.60.47
+21 failed login attempts
+64.186.60.47 is from US, United States
+Short whois:
+64.186.60.47 is part of , which owned by 
+Abuse e-mail is: 
+
+==BAN==
+issued at Dec_30_at_20:49
+64.186.60.47
+20 failed login attempts
+64.186.60.47 is from US, United States
+Short whois:
+64.186.60.47 is part of , which owned by 
+Abuse e-mail is: 
+
